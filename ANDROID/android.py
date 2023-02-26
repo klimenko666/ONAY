@@ -10,7 +10,7 @@ def ANDROID():
     locale.setlocale(locale.LC_ALL, "")
 
 
-    token="5761540175:AAH4YDKufW2jI30kNYihUjxQfedq0egM36I"
+    token="6086073204:AAFBQiENbUznb418Q0Qj5MSJkQu0ZZjBywM"
     bot=telebot.TeleBot(token)
 
 
